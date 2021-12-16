@@ -19,7 +19,6 @@
   </em> 
   <br>
 </h3>
-<br>
 <hr>
 <h1 align="center"> <img src = "https://cdn-icons-png.flaticon.com/128/1835/1835942.png" width = 30px> Tools and Technologies</h1>
 <div align="center">
@@ -28,7 +27,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </div>
-<br>
 
 <hr>
 
