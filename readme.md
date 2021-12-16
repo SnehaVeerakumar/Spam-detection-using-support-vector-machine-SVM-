@@ -6,12 +6,12 @@
 <hr>
 <h1 align="center"> <img src = "https://cdn-icons-png.flaticon.com/128/4592/4592720.png" width = 36px> E-mail Spam Classification Using Support Vector Machine in R  </h1>
 
-<center>
+<div align="center">
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://drive.google.com/file/d/1km6oSS7w1SU3KHsY2bltfVkpHYuBBMpE/view?usp=sharing)
 
-</center>
+</div>
 
 <h3 align="center">
   <em>
